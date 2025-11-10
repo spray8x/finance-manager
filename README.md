@@ -42,23 +42,24 @@ This application allows you to **add, view, update, delete, search, and visualiz
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone or download this project
-```bash
+ ```bash
 git clone https://github.com/yourusername/finance-manager.git
 cd finance-manager
+```
 
-2️⃣ Install required dependencies
+### 2️⃣ Install required dependencies
 
 Make sure Python is installed. Then run:
-
+```bash
 pip install streamlit pandas matplotlib
-
+```
 ▶️ How to Run
 
 If your file is named main.py and is inside a folder like Main,
 run the app using the following command:
-
+```bash
 streamlit run Main/main.py
-
+```
 
 💡 Tip: You must be inside your project’s root directory in the terminal before running the command.
 
