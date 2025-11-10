@@ -120,7 +120,9 @@ Dark mode and custom UI styling
 Aarush Rahul Patel
 📅 Built with passion for coding, finance, and data visualization
 ✨ “Code your money, manage your future.”
+
 Edited by
+
 Aditya Gaurav
 
 ## 🪪 License
