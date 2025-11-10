@@ -53,7 +53,7 @@ Make sure Python is installed. Then run:
 ```bash
 pip install streamlit pandas matplotlib
 ```
-▶️ How to Run
+## ▶️ How to Run
 
 If your file is named main.py and is inside a folder like Main,
 run the app using the following command:
@@ -67,7 +67,8 @@ Once you run it, Streamlit will open your Finance Manager web app in your browse
 
 http://localhost:8501
 
-📊 Features Overview
+## 📊 Features Overview
+
 🔹 Add Transaction
 
 Enter details such as Transaction Number, ID, Type (Credited/Debited), Purpose, Amount, and Date.
@@ -96,7 +97,7 @@ Visualizes your weekly and monthly spending patterns using line charts.
 
 Shows your expenses by category (Purpose) using a bar chart.
 
-💡 Notes
+## 💡 Notes
 
 The database file finance.db is automatically created in the same folder when you run the app for the first time.
 
@@ -104,7 +105,7 @@ You can rename or move it, but make sure to update its path in the code if you d
 
 To stop the app, press Ctrl + C in your terminal.
 
-🧠 Future Enhancements
+## 🧠 Future Enhancements
 
 Add login authentication
 
@@ -114,12 +115,14 @@ Add savings goals and reminders
 
 Dark mode and custom UI styling
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Aarush Rahul Patel
 📅 Built with passion for coding, finance, and data visualization
 ✨ “Code your money, manage your future.”
+Edited by
+Aditya Gaurav
 
-🪪 License
+## 🪪 License
 
 This project is open-source and free to use for learning and personal projects.
